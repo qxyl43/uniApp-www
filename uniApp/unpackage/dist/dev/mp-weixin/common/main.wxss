@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css，全局样式，在main.js中引入无效 */
+page {
+  font-size: 32 * @ratio;
+}
+page,#app {
+  height: 100%;
+}
+
